@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pi3dot1415
-- 👀 I’m interested in Artificial Inteligence especcially Computer Vision and Data Enginnering
+- 👀 I’m interested in Artificial Inteligence especially Computer Vision and Data Enginnering
 - 🌱 I’m currently learning Tensorflow and MariaDB SQL
 - 💞️ I’m looking to collaborate on small projects related to data or AI
 
